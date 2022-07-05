@@ -5,3 +5,22 @@
   flex-direction: column;
   background-color: grey;
 }
+
+.search {
+  margin-left: 800px;
+  margin-top: 2px;
+  background-color: transparent;
+}
+.icon_search {
+  margin-left: 20px;
+  height: 40px;
+  width: 50px;
+  color: black;
+  font-weight: 900;
+  padding-top: 20px;
+}
+p {
+  color: black;
+  font-size: 18px;
+  font-weight: 700;
+}
