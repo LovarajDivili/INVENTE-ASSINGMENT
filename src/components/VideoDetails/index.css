@@ -1,0 +1,22 @@
+.item-container {
+  background-color: black;
+  margin: 10px;
+  height: auto;
+  width: 80%;
+  padding: 10px;
+  border: 2px solid blue;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+.item-title {
+  color: aliceblue;
+  padding: 10px;
+  font-size: 16px;
+  font-style: oblique;
+  font-weight: 800;
+}
+.video_container {
+  border-radius: 10px;
+  height: 460px;
+  width: 1000px;
+}
